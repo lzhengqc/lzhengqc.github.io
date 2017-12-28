@@ -1,0 +1,13 @@
+https://coinmarketcap.com/api/
+
+https://api.coinmarketcap.com/v1/ticker/?limit=250
+https://api.coinmarketcap.com/v1/ticker/litecoin/
+https://api.coinmarketcap.com/v1/ticker/bitcoin/
+
+
+https://min-api.cryptocompare.com/data/pricehistorical?fsym=ETN&tsyms=LTC,BTC,USD&ts=1514254850
+https://min-api.cryptocompare.com/data/pricehistorical?fsym=ARDR&tsyms=LTC,BTC,USD
+
+
+https://www.epochconverter.com/
+http://www.convert-unix-time.com/?t=1514254850
